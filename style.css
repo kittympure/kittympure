@@ -1,0 +1,54 @@
+/* Estilo general */
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #000;
+  color: #fff;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+/* Encabezado */
+header {
+  text-align: center;
+  padding: 80px 20px;
+}
+
+h1 {
+  font-size: 3rem;
+  letter-spacing: 4px;
+  color: #b066ff; /* violeta acento */
+}
+
+h2 {
+  font-size: 1.2rem;
+  font-weight: normal;
+  max-width: 800px;
+  margin: 20px auto 0;
+}
+
+/* Secciones */
+section {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 60px 20px;
+}
+
+.descripcion p {
+  font-size: 1.05rem;
+}
+
+/* Galería */
+.galeria h3,
+.redes h3 {
+  color: #b066ff;
+  letter-spacing: 2px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 30px 10px;
+  font-size: 0.9rem;
+  opacity: 0.7;
+}
